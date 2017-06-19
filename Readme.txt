@@ -1,4 +1,4 @@
-	This source has created by Maickonn Richard.
+	This source has created by Maickonn Richard & Gabriel Stilben.
 	Any questions, contact-me: senjaxus@gmail.com
 
 	My Github: https://www.github.com/Senjaxus

@@ -1,7 +1,7 @@
 ﻿{
 
 
-  This source has created by Maickonn Richard.
+  This source has created by Maickonn Richard & Gabriel Stilben.
   Any questions, contact-me: senjaxus@gmail.com
 
   My Github: https://www.github.com/Senjaxus
@@ -234,7 +234,7 @@ end;
 
 procedure Tfrm_Main.About_BitBtnClick(Sender: TObject);
 begin
-  MessageBox(0, 'This software has created by Maickonn Richard and source code are free!' + #13 + #13'Any questions, contact-me: senjaxus@gmail.com' + #13#13 + 'My Github: https://www.github.com/Senjaxus', 'About AllaKore Remote', MB_ICONASTERISK + MB_TOPMOST);
+  MessageBox(0, 'This software has created by Maickonn Richard & Gabriel Stilben. And source code are free!' + #13 + #13'Any questions, contact-me: senjaxus@gmail.com' + #13#13 + 'My Github: https://www.github.com/Senjaxus', 'About AllaKore Remote', MB_ICONASTERISK + MB_TOPMOST);
 end;
 
 procedure Tfrm_Main.ClearConnection;
