@@ -10,6 +10,8 @@
 
 -----------------------------------------------------------------------
 
+If you have enjoyed the project and would like to help with a donation via PayPal, follow the link:
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=N9LKUWQFK6YZ4
 
 First of all, I apologize for my English because it is not my native language. I live in Brazil. :D
 

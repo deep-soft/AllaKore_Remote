@@ -10,6 +10,9 @@
 
   Are totally free!
 
+  If you have enjoyed the project and would like to help with a donation via PayPal, follow the link:
+  https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=N9LKUWQFK6YZ4
+
 
 }
 
@@ -1594,7 +1597,7 @@ begin
           Synchronize(
             procedure
             begin
-              GetScreenToMemoryStream(true, MyFirstBmp);
+              GetScreenToMemoryStream(false, MyFirstBmp);
             end);
 
           MyFirstBmp.Position := 0;
@@ -1624,7 +1627,7 @@ begin
             Synchronize(
               procedure
               begin
-                GetScreenToMemoryStream(true, MySecondBmp);
+                GetScreenToMemoryStream(false, MySecondBmp);
               end);
 
             CompareStream(MyFirstBmp, MySecondBmp, MyCompareBmp);
@@ -1649,7 +1652,7 @@ begin
           Synchronize(
             procedure
             begin
-              GetScreenToMemoryStream(true, MySecondBmp);
+              GetScreenToMemoryStream(false, MySecondBmp);
             end);
 
           CompareStream(MyFirstBmp, MySecondBmp, MyCompareBmp);
